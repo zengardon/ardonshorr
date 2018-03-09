@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ardon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.ardonshorr.com
+  * I am ardon (https://keybase.io/ardon) on keybase.
+  * I have a public key ASB5KH4vZ8AyLFaVnL8IRmka_PTIkRk79cZ5qjgJRiO9mAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012079287e2f67c0322c56959cbf0846691afcf4c891193bf5c679aa38094623bd980a",
+      "host": "keybase.io",
+      "kid": "012079287e2f67c0322c56959cbf0846691afcf4c891193bf5c679aa38094623bd980a",
+      "uid": "d5bab3922612d541382295fc11243e19",
+      "username": "ardon"
+    },
+    "merkle_root": {
+      "ctime": 1520630670,
+      "hash": "6638fd5a8b28b9824f9dce37a6155a1de02d645a7586a3e8084bd99dba7afb29b02010788b8b9e606e96b3da669258a7e638933a9b5d0c29dee3cb1f2fc51bb9",
+      "hash_meta": "fdb5d605171d784a95d35de402473f9635cef31a83d260f4544402b8bda3d75d",
+      "seqno": 2212765
+    },
+    "service": {
+      "hostname": "www.ardonshorr.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520630690,
+  "expire_in": 504576000,
+  "prev": "3b78202c59cb8823ed753ac71d827971f17ded2900b9254ff897a9fd11ba2880",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeSh+L2fAMixWlZy/CEZpGvz0yJEZO/XGeao4CUYjvZgKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzkyODdlMmY2N2MwMzIyYzU2OTU5Y2JmMDg0NjY5MWFmY2Y0Yzg5MTE5M2JmNWM2NzlhYTM4MDk0NjIzYmQ5ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzkyODdlMmY2N2MwMzIyYzU2OTU5Y2JmMDg0NjY5MWFmY2Y0Yzg5MTE5M2JmNWM2NzlhYTM4MDk0NjIzYmQ5ODBhIiwidWlkIjoiZDViYWIzOTIyNjEyZDU0MTM4MjI5NWZjMTEyNDNlMTkiLCJ1c2VybmFtZSI6ImFyZG9uIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwNjMwNjcwLCJoYXNoIjoiNjYzOGZkNWE4YjI4Yjk4MjRmOWRjZTM3YTYxNTVhMWRlMDJkNjQ1YTc1ODZhM2U4MDg0YmQ5OWRiYTdhZmIyOWIwMjAxMDc4OGI4YjllNjA2ZTk2YjNkYTY2OTI1OGE3ZTYzODkzM2E5YjVkMGMyOWRlZTNjYjFmMmZjNTFiYjkiLCJoYXNoX21ldGEiOiJmZGI1ZDYwNTE3MWQ3ODRhOTVkMzVkZTQwMjQ3M2Y5NjM1Y2VmMzFhODNkMjYwZjQ1NDQ0MDJiOGJkYTNkNzVkIiwic2Vxbm8iOjIyMTI3NjV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmFyZG9uc2hvcnIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NSJ9LCJjdGltZSI6MTUyMDYzMDY5MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIzYjc4MjAyYzU5Y2I4ODIzZWQ3NTNhYzcxZDgyNzk3MWYxN2RlZDI5MDBiOTI1NGZmODk3YTlmZDExYmEyODgwIiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAqzXGf0DwwuchzYNSuphOJzZLm+LsyP7zG4l+G/wTJueKulXNPpkbaOF8+qd7bxxenqaPV2uQtGYkTV8ua54guoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAPp8FpgOPLNhaRyETB/N4IAYzEN9Gl3EoR02BBbgoDz6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ardon
+
+==================================================================
