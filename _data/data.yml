@@ -1,0 +1,112 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    # Site Settings
+    title: Ardon Shorr
+    url: 'http://ArdonShorr.com'
+    about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+    # Profile information
+    name: Ardon Shorr
+    tagline: Science Communicator
+    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: Ardon@Cultured.Fit
+    resume: Resume
+    #phone: (732) 606-4669
+    website: Cultured.Fit #do not add http://
+    #linkedin: ArdonShorr
+    schedule: https://calendly.com/ardonshorr
+    keybase: Ardon
+    #github: zengardon
+    #twitter: '@zengardon'
+
+    # interests:
+    #     - interest:
+    #       item: Climbing
+    #       link:
+    #     - interest:
+    #       item: Snowboarding
+    #       link:
+    #     - interest:
+    #       item: Cooking
+    #       link:
+
+
+
+
+
+
+career-profile:
+    title: I create workshops on science communication.
+    text: Right now I'm finishing my Ph.D. at Carnegie Mellon University, defending in September.
+    t2: I also <a href="https://Cultured.Fit">teach workshops</a> for scientists and entrepreneurs.
+    t3:
+
+
+
+studies:
+    - education:
+      degree: Ph.D. in Biological Sciences
+      university: Carnegie Mellon University
+      time: September 2018
+      details: "Graduate Research Fellow with the National Science Foundation <br> Certificate in Teaching Excellence"
+
+    - education:
+      degree: B.A. in  Neuroscience <br> B.A. in Music Theory
+      university: Oberlin College
+      time: 2009
+      details: "Honors Thesis"
+
+
+projects:
+    title: Presentations
+    intro:
+
+    projects:
+      - project:
+        title:
+        link:
+        tagline:
+      - project:
+        title: TEDx
+        link: "http://www.youtube.com/watch?v=cswhOCKQZ7Q"
+        tagline: "My talk on music theory was named an editors' choice."
+      - project:
+        title: Dance your Ph.D.
+        link: "https://www.youtube.com/watch?v=TvsyMFFBUYE"
+        tagline: "Understanding biochemistry through dance."
+
+publications:
+    title: Writing
+    intro: ""
+
+    publications:
+      - paper:
+        title: SciComm Curriculum
+        tagline: "Workshops and learning objectives."
+        link: "pdf/Shorr_Curriculum_Mapping.pdf"
+        conference: Public Communication for Researchers
+      - paper:
+        title: Five Year Plan
+        link: "pdf/PCR_5_year_plan.pdf"
+        tagline: "for creating a science communication center."
+        conference: Public Communication for Researchers
+      - paper:
+        title: GradSciComm
+        link: "pdf/GradSciComm_Roadmap.pdf"
+        tagline: "National recommendations for incorporating communication training into graduate education."
+        conference: Contributing Author
+      - paper:
+        title: Op-Ed
+        link: "http://www.chronicle.com/article/Grad-School-Is-Hard-on-Mental/240626?cid=wcontentgrid_40_2"
+        tagline: "<q>Grad school is hard on mental health. Here's an antidote.</q>"
+        conference: The Chronicle of Higher Education
+
+
+
+footer:
+    text: 'Updated June 2018'
