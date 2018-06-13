@@ -46,8 +46,6 @@ career-profile:
     t2: I also <a href="https://Cultured.Fit">teach workshops</a> for scientists and entrepreneurs.
     t3:
 
-
-
 studies:
     - education:
       degree: Ph.D. in Biological Sciences
@@ -106,7 +104,11 @@ publications:
         tagline: "<q>Grad school is hard on mental health. Here's an antidote.</q>"
         conference: The Chronicle of Higher Education
 
-
+biography:
+    title: Profile
+    text: Ardon Shorr is the co-founder of Cultured Fit, where he's worked with startups, faculty, and over 500 graduate students to explain their research and why it matters. His workshops have appeared across the US, including Harvard, Stanford, Carnegie Mellon, AAAS, and SXSWedu. He graduated from Oberlin College majoring in Music Theory and Neuroscience, and is now a Ph.D. candidate in biology at Carnegie Mellon University. He's a fellow with the National Science Foundation, where he studies why astronauts come back with so many health problems, and builds tools to figure out how living things sense gravity.
+    t2:
+    t3:
 
 footer:
     text: 'Updated June 2018'
