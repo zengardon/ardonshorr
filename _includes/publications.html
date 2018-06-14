@@ -11,7 +11,7 @@
 
   {% for publication in site.data.data.publications.publications %}
     <div class="item">
-      <span class="project-title"><a href="{{ publication.link }}">{{ publication.title }}</a></span>
+      <span class="project-title"><a href="{{ publication.link }}" target="_blank">{{ publication.title }}</a></span>
       {% if publication.tagline %}
       - <span class="project-tagline">{{ publication.tagline }}</span>
       {% endif %}

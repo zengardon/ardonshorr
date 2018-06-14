@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: Ardon Shorr
-    url: 'http://ArdonShorr.com'
+    url: 'https://ArdonShorr.com'
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
@@ -43,14 +43,14 @@ sidebar:
 career-profile:
     title: I create workshops on science communication.
     text: Right now I'm finishing my Ph.D. at Carnegie Mellon University, defending in September.
-    t2: I also <a href="https://Cultured.Fit">teach workshops</a> for scientists and entrepreneurs.
+    t2: I also <a href="https://Cultured.Fit" target="_blank">teach workshops</a> for scientists and entrepreneurs.
     t3:
 
 studies:
     - education:
       degree: Ph.D. in Biological Sciences
       university: Carnegie Mellon University
-      time: September 2018
+      time: Expected September 2018
       details: "Graduate Research Fellow with the National Science Foundation <br> Certificate in Teaching Excellence"
 
     - education:
