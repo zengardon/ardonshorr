@@ -10,7 +10,7 @@ sidebar:
 
     # Profile information
     name: Ardon Shorr
-    tagline: Science Communicator
+    tagline: Science Communication
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,8 +42,14 @@ sidebar:
 
 career-profile:
     title: I create workshops on science communication.
-    text: Right now I'm finishing my Ph.D. at Carnegie Mellon University, defending in September.
-    t2: I also <a href="https://Cultured.Fit" target="_blank">teach workshops</a> for scientists and entrepreneurs.
+    text: What can I help you explain?
+    t2:
+    t3:
+
+biography:
+    title: Profile
+    text: Ardon Shorr is the co-founder of Public Communication for Researchers and <a href="https://Cultured.Fit" target="_blank">Cultured Fit</a>, where he's helped startups, faculty, and over 500 graduate students explain their work and why it matters. He's led workshops across the US, including Harvard, Stanford, Carnegie Mellon, AAAS, and SXSWedu. He graduated from Oberlin College majoring in Music Theory and Neuroscience, and is currently a Ph.D. candidate in biology at Carnegie Mellon University. He builds tools to figure out how living things sense gravity, with the hope of improving aging and space travel.
+    t2:
     t3:
 
 studies:
@@ -58,7 +64,6 @@ studies:
       university: Oberlin College
       time: 2009
       details: "Honors Thesis"
-
 
 projects:
     title: Presentations
@@ -104,11 +109,6 @@ publications:
         tagline: "<q>Grad school is hard on mental health. Here's an antidote.</q>"
         conference: The Chronicle of Higher Education
 
-biography:
-    title: Profile
-    text: Ardon Shorr is the co-founder of Cultured Fit, where he's worked with startups, faculty, and over 500 graduate students to explain their research and why it matters. His workshops have appeared across the US, including Harvard, Stanford, Carnegie Mellon, AAAS, and SXSWedu. He graduated from Oberlin College majoring in Music Theory and Neuroscience, and is now a Ph.D. candidate in biology at Carnegie Mellon University. He's a fellow with the National Science Foundation, where he studies why astronauts come back with so many health problems, and builds tools to figure out how living things sense gravity.
-    t2:
-    t3:
 
 footer:
     text: 'Updated June 2018'
