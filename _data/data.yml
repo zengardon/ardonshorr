@@ -9,7 +9,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
-    name: Ardon Shorr, Ph.D.
+    name: Ardon Shorr
     tagline: Science Communication
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -48,7 +48,7 @@ career-profile:
 
 biography:
     title: Profile
-    text: Ardon Shorr is the co-founder of Public Communication for Researchers and <a href="https://Cultured.Fit" target="_blank">Cultured Fit</a>, where he's helped startups, faculty, and over 500 graduate students explain their work and why it matters. He's led workshops across the US, including Harvard, Stanford, Carnegie Mellon, AAAS, and SXSWedu. He graduated from Oberlin College majoring in Music Theory and Neuroscience, and holds a Ph.D. in biology from Carnegie Mellon University where he teaches science communication.
+    text: Ardon Shorr teaches science communication at Carnegie Mellon University. He's led workshops at Harvard, Stanford, AAAS, and SXSWedu. He graduated from Oberlin College studying Music Theory and Neuroscience, and holds a Ph.D. in biology from Carnegie Mellon.
     t2:
     t3:
 
@@ -111,4 +111,4 @@ publications:
 
 
 footer:
-    text: 'Updated June 2018'
+    text: 'Updated December 2018'
