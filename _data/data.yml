@@ -4,12 +4,12 @@
 
 sidebar:
     # Site Settings
-    title: Ardon Shorr
+    title: Ardon Shorr, Ph.D.
     url: 'https://ArdonShorr.com'
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
-    name: Ardon Shorr
+    name: Ardon Shorr, Ph.D.
     tagline: Science Communication
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -48,7 +48,7 @@ career-profile:
 
 biography:
     title: Profile
-    text: Ardon Shorr is the co-founder of Public Communication for Researchers and <a href="https://Cultured.Fit" target="_blank">Cultured Fit</a>, where he's helped startups, faculty, and over 500 graduate students explain their work and why it matters. He's led workshops across the US, including Harvard, Stanford, Carnegie Mellon, AAAS, and SXSWedu. He graduated from Oberlin College majoring in Music Theory and Neuroscience, and is currently a Ph.D. candidate in biology at Carnegie Mellon University. He builds tools to figure out how living things sense gravity, with the hope of improving aging and space travel.
+    text: Ardon Shorr is the co-founder of Public Communication for Researchers and <a href="https://Cultured.Fit" target="_blank">Cultured Fit</a>, where he's helped startups, faculty, and over 500 graduate students explain their work and why it matters. He's led workshops across the US, including Harvard, Stanford, Carnegie Mellon, AAAS, and SXSWedu. He graduated from Oberlin College majoring in Music Theory and Neuroscience, and holds a Ph.D. in biology from Carnegie Mellon University where he teaches science communication.
     t2:
     t3:
 
@@ -56,7 +56,7 @@ studies:
     - education:
       degree: Ph.D. in Biological Sciences
       university: Carnegie Mellon University
-      time: Expected September 2018
+      time: 2018
       details: "Graduate Research Fellow with the National Science Foundation <br> Certificate in Teaching Excellence"
 
     - education:
