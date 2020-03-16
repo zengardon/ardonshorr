@@ -10,7 +10,7 @@ sidebar:
 
     # Profile information
     name: Ardon Shorr
-    tagline: Science Communication
+    tagline: Faculty at Princeton
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,7 +41,7 @@ sidebar:
 
 
 career-profile:
-    title: I teach academic writing and science communication.
+    title: I teach <a href="https://writing.princeton.edu/undergraduates/writing-seminars/spring-seminars#187">academic writing</a> and <a href="pdf/Shorr_PWP_workshops_overview.pdf">science communication</a>.
     text: What can I help you explain?
     t2:
     t3:
