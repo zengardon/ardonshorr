@@ -14,12 +14,12 @@ sidebar:
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Ardon@Cultured.Fit
+    email: Ardon@Princeton.edu
     resume: Resume
     #phone: (732) 606-4669
     website: Cultured.Fit #do not add http://
     #linkedin: ArdonShorr
-    schedule: https://calendly.com/ardonshorr
+    #schedule: https://calendly.com/ardonshorr
     keybase: Ardon
     #github: zengardon
     #twitter: '@zengardon'
@@ -41,14 +41,14 @@ sidebar:
 
 
 career-profile:
-    title: I create workshops on science communication.
+    title: I teach academic writing and science communication.
     text: What can I help you explain?
     t2:
     t3:
 
 biography:
     title: Profile
-    text: Ardon Shorr teaches science communication at Carnegie Mellon University. He's led workshops at Harvard, Stanford, AAAS, and SXSWedu. He graduated from Oberlin College studying Music Theory and Neuroscience, and holds a Ph.D. in biology from Carnegie Mellon.
+    text: Ardon helps scientists talk about their work and why it matters. He teaches science communication at Princeton, and his workshops have appeared across the country at Harvard, Stanford, Carnegie Mellon, and SXSW. He's a fellow with the National Science Foundation and a contributing author to national recommendations for graduate education. His TEDx talk on music theory was translated into 9 languages and named editor's choice. He graduated from Oberlin College studying music theory, neuroscience, and chemistry. He holds a Ph.D. in biology from Carnegie Mellon where he studied why astronauts come back with so many health problems, and how living things sense mechanical forces like gravity.
     t2:
     t3:
 
@@ -89,10 +89,10 @@ publications:
 
     publications:
       - paper:
-        title: SciComm Curriculum
+        title: Science Communication Workshops
         tagline: "Workshops and learning objectives."
-        link: "pdf/Shorr_Curriculum_Mapping.pdf"
-        conference: Public Communication for Researchers
+        link: "pdf/Shorr_PWP_workshops_overview.pdf"
+        conference: Carnegie Mellon University
       - paper:
         title: Five Year Plan
         link: "pdf/PCR_5_year_plan.pdf"
@@ -111,4 +111,4 @@ publications:
 
 
 footer:
-    text: 'Updated December 2018'
+    text: 'Updated March 2020'
