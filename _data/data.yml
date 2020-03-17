@@ -9,7 +9,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
-    name: Ardon Z. Shorr
+    name: Ardon Shorr
     tagline: Faculty at Princeton
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -41,7 +41,7 @@ sidebar:
 
 
 career-profile:
-    title: I teach <a href="https://writing.princeton.edu/undergraduates/writing-seminars/spring-seminars#187">academic writing</a> and <a href="pdf/Shorr_PWP_workshops_overview.pdf">science communication</a>.
+    title: I teach <a href="https://writing.princeton.edu/undergraduates/writing-seminars/spring-seminars#187">academic writing</a> and <a href="pdf/Shorr_PWP_workshops_overview.pdf">science communication</a>
     text: What can I help you explain?
     t2:
     t3:
@@ -90,13 +90,13 @@ publications:
     publications:
       - paper:
         title: Science Communication Workshops
-        tagline: "Overview"
+        tagline: "overview"
         link: "pdf/Shorr_PWP_workshops_overview.pdf"
         conference: Carnegie Mellon University
       - paper:
         title: Teaching Statement
         link: "pdf/Shorr_2019TeachingStatement.pdf"
-        tagline: ""
+        tagline: "on vulnerability"
         conference: Princeton University
     #  - paper:
     #    title: GradSciComm
