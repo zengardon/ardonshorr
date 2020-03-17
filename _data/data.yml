@@ -73,7 +73,7 @@ projects:
       - project:
         title: Mesofluidics
         link: "http://xlink.rsc.org/?DOI=C8LC01055B"
-        tagline: "Peer-reviewed publication featured on the cover of <i>Lab on a Chip</i> and named top 10% of innovation and impact."
+        tagline: "Peer-reviewed publication featured on the cover of <i>Lab on a Chip</i>, named "top 10% of innovation and impact."""
       - project:
         title: TEDx
         link: "http://www.youtube.com/watch?v=cswhOCKQZ7Q"
@@ -84,7 +84,7 @@ projects:
         tagline: "Explaining proteomics through dance."
 
 publications:
-    title: Science Communication
+    title: Teaching
     intro: ""
 
     publications:
@@ -93,11 +93,11 @@ publications:
         tagline: "overview"
         link: "pdf/Shorr_PWP_workshops_overview.pdf"
         conference: Carnegie Mellon University
-    #  - paper:
-    #    title: Five Year Plan
-    #    link: "pdf/PCR_5_year_plan.pdf"
-    #    tagline: "for creating a science communication center."
-    #    conference: Public Communication for Researchers
+      - paper:
+        title: Teaching Statement
+        link: "pdf/Shorr_2019TeachingStatement.pdf"
+        tagline: ""
+        conference: Princeton University
     #  - paper:
     #    title: GradSciComm
     #    link: "pdf/GradSciComm_Roadmap.pdf"
