@@ -9,7 +9,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
-    name: Ardon Shorr
+    name: Ardon Shorr, Ph.D.
     tagline: Faculty at Princeton
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -90,7 +90,7 @@ publications:
     publications:
       - paper:
         title: Science Communication Workshops
-        tagline: "overview"
+        tagline: "Overview"
         link: "pdf/Shorr_PWP_workshops_overview.pdf"
         conference: Carnegie Mellon University
       - paper:
