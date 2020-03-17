@@ -48,7 +48,7 @@ career-profile:
 
 biography:
     title: Profile
-    text: Ardon helps scientists talk about their work and why it matters. He teaches <a href="https://writing.princeton.edu/undergraduates/writing-seminars/spring-seminars#187">academic writing</a> and <a href="pdf/Shorr_PWP_workshops_overview.pdf">science communication</a> at <a href="https://writing.princeton.edu/about/writing-seminar-faculty/ardon-shorr">Princeton</a>. His workshops have appeared across the country at Harvard, Stanford, Carnegie Mellon, and SXSWedu. He's a fellow with the National Science Foundation and a contributing author to <a href="/pdf/GradSciComm_Roadmap.pdf">national recommendations for graduate education</a>. He graduated from Oberlin College studying music theory, neuroscience, and chemistry. He holds a Ph.D. in biology from Carnegie Mellon where he studied why astronauts come back with so many health problems, and how living things sense mechanical forces like gravity.
+    text: Ardon helps scientists talk about their work and why it matters. He teaches <a href="https://writing.princeton.edu/undergraduates/writing-seminars/spring-seminars#187">academic writing</a> and <a href="pdf/Shorr_PWP_workshops_overview.pdf">science communication</a> at <a href="https://writing.princeton.edu/about/writing-seminar-faculty/ardon-shorr">Princeton</a>. His workshops have appeared across the country at Harvard, Stanford, Carnegie Mellon, and SXSWedu. He’s a fellow with the National Science Foundation and a contributing author to <a href="/pdf/GradSciComm_Roadmap.pdf">national recommendations for graduate education</a>. He graduated from Oberlin College studying music theory, neuroscience, and chemistry. He holds a Ph.D. in biology from Carnegie Mellon where he studied why astronauts come back with so many health problems, and how living things sense mechanical forces like gravity.
     t2:
     t3:
 
@@ -73,11 +73,11 @@ projects:
       - project:
         title: Mesofluidics
         link: "http://xlink.rsc.org/?DOI=C8LC01055B"
-        tagline: "Peer-reviewed publication featured on the cover of <i>Lab on a Chip</i>, named "top 10% of innovation and impact."""
+        tagline: "Peer-reviewed publication featured on the cover of <i>Lab on a Chip</i>, named “top 10% of innovation and impact.”""
       - project:
         title: TEDx
         link: "http://www.youtube.com/watch?v=cswhOCKQZ7Q"
-        tagline: "My talk on music theory was an editors' choice."
+        tagline: "My talk on music theory was an editors’ choice."
       - project:
         title: Dance your Ph.D.
         link: "https://www.youtube.com/watch?v=TvsyMFFBUYE"
@@ -106,7 +106,7 @@ publications:
       - paper:
         title: Op-Ed
         link: "http://www.chronicle.com/article/Grad-School-Is-Hard-on-Mental/240626?cid=wcontentgrid_40_2"
-        tagline: "<q>Grad school is hard on mental health. Here's an antidote.</q>"
+        tagline: "<q>Grad school is hard on mental health. Here’s an antidote.</q>"
         conference: The Chronicle of Higher Education
 
 
